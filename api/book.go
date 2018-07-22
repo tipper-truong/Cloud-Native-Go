@@ -1,5 +1,6 @@
 package api
 
+// @author Tipper Truong
 import (
 	"encoding/json"
 	"io/ioutil"
